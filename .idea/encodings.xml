@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../clientui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../clientui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-commandes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-commandes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-paiement" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-paiement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-produits" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-produits/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mcommerce-master/microservice-produits/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-repor/microservice-produits.properties" charset="windows-1252" />
+  </component>
+</project>
